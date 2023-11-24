@@ -71,7 +71,7 @@ a:visited {
 
 .container_wrap {
   margin-top: 160px;
-  padding: 0px 155px;
+  padding: 0px 10%;
   box-sizing: border-box;
 }
 .container_wrap .contents_title .title {
